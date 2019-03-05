@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "git branching exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexi-jayy/Git-Exercise.git"
+  },
+  "author": "Lexi-jayy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexi-jayy/Git-Exercise/issues"
+  },
+  "homepage": "https://github.com/lexi-jayy/Git-Exercise#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
