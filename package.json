@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lexi-jayy/Git-Exercise#readme",
   "devDependencies": {
+    "grunt": "^1.0.3",
     "jquery": "^3.3.1"
   }
 }
